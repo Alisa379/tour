@@ -1,0 +1,26 @@
+﻿1CV8LOG(ver 2.0)
+917dbcc6-7744-4412-abfd-e9f4e2675a29
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-GSM7LFL",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,90ec2170-3830-48db-9791-0c1614905fd4,"",1},
+{5,4e799390-d865-440a-8e9f-4bdad809ac3f,"",2},
+{5,1630549a-a396-4aa0-9980-be96074dee81,"",3},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",7},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,4e799390-d865-440a-8e9f-4bdad809ac3f,"Справочник.Управляющие",2},
+{4,"_$Transaction$_.Commit",10},
+{4,"_$Data$_.Update",11},
+{4,"_$InfoBase$_.DumpStart",12},
+{4,"_$InfoBase$_.DumpFinish",13}
