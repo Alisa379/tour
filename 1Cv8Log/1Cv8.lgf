@@ -26,4 +26,8 @@
 {4,"_$InfoBase$_.DumpFinish",13},
 {2,"DESKTOP-BVPR1M0",2},
 {13,2,1},
-{5,83d6809a-0f78-48bd-aad9-5e74d845bcd8,"",4}
+{5,83d6809a-0f78-48bd-aad9-5e74d845bcd8,"",4},
+{4,"_$InfoBase$_.RestoreStart",14},
+{4,"_$InfoBase$_.RestoreFinish",15},
+{5,aa7161ad-5d08-4e47-b64a-ab7615a10b54,"Справочник.Туры",5},
+{4,"_$Data$_.Delete",16}
